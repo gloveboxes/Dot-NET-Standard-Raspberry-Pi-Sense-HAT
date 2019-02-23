@@ -1,0 +1,9 @@
+/home/dave/GitHub/dotnet-standard-pi-sense/obj/Debug/netstandard2.0/dotnet-standard-pi-sense.csprojAssemblyReference.cache
+/home/dave/GitHub/dotnet-standard-pi-sense/obj/Debug/netstandard2.0/dotnet-standard-pi-sense.csproj.CoreCompileInputs.cache
+/home/dave/GitHub/dotnet-standard-pi-sense/obj/Debug/netstandard2.0/dotnet-standard-pi-sense.AssemblyInfoInputs.cache
+/home/dave/GitHub/dotnet-standard-pi-sense/obj/Debug/netstandard2.0/dotnet-standard-pi-sense.AssemblyInfo.cs
+/home/dave/GitHub/dotnet-standard-pi-sense/bin/Debug/netstandard2.0/dotnet-standard-pi-sense.deps.json
+/home/dave/GitHub/dotnet-standard-pi-sense/bin/Debug/netstandard2.0/dotnet-standard-pi-sense.dll
+/home/dave/GitHub/dotnet-standard-pi-sense/bin/Debug/netstandard2.0/dotnet-standard-pi-sense.pdb
+/home/dave/GitHub/dotnet-standard-pi-sense/obj/Debug/netstandard2.0/dotnet-standard-pi-sense.dll
+/home/dave/GitHub/dotnet-standard-pi-sense/obj/Debug/netstandard2.0/dotnet-standard-pi-sense.pdb
